@@ -1,3 +1,3 @@
 #/bin/bash
 
-cp ~/.dotfiles/{.bashrc} ~/
+cp ~/.dotfiles/.bashrc ~/
